@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1594072299 source:c:\codeblocks\jezyk c++ szkola programowania\rozdzial 4 pytania z teorii\main.cpp
+	<iostream>
+	<limits>
+	<array>
+	<string>
+	<vector>
+

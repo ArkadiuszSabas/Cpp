@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1597643979 source:c:\codeblocks\jezyk c++ szkola programowania\rozdzial 11 zad 7\complex0.cpp
+	"complex0.h"
+
+1597643496 c:\codeblocks\jezyk c++ szkola programowania\rozdzial 11 zad 7\complex0.h
+	<iostream>
+
+1597643939 source:c:\codeblocks\jezyk c++ szkola programowania\rozdzial 11 zad 7\main.cpp
+	"complex0.h"
+

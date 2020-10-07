@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594924555 source:c:\codeblocks\jezyk c++ szkola programowania\rozdzial 7 pytania z teorii\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+

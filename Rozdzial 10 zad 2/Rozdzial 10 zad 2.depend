@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1596456561 source:c:\codeblocks\jezyk c++ szkola programowania\rozdzial 10 zad 2\main.cpp
+	<iostream>
+	"Person.h"
+
+1596456297 c:\codeblocks\jezyk c++ szkola programowania\rozdzial 10 zad 2\person.h
+	<iostream>
+
+1596456489 source:c:\codeblocks\jezyk c++ szkola programowania\rozdzial 10 zad 2\person.cpp
+	<iostream>
+	<string.h>
+	"Person.h"
+

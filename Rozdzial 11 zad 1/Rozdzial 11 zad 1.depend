@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1597337227 source:c:\codeblocks\jezyk c++ szkola programowania\rozdzial 11 zad 1\vect.cpp
+	<cmath>
+	"vect.h"
+
+1597337270 c:\codeblocks\jezyk c++ szkola programowania\rozdzial 11 zad 1\vect.h
+	<iostream>
+

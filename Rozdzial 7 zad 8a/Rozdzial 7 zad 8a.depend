@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596022510 source:c:\codeblocks\jezyk c++ szkola programowania\rozdzial 7 zad 8a\main.cpp
+	<iostream>
+	<array>
+	<string>
+

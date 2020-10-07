@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1596448314 source:c:\codeblocks\jezyk c++ szkola programowania\rozdzial 9 zad 4\main.cpp
+	<iostream>
+	"sales.hpp"
+
+1596447940 source:c:\codeblocks\jezyk c++ szkola programowania\rozdzial 9 zad 4\sales.cpp
+	<iostream>
+	"sales.hpp"
+
+1596447866 c:\codeblocks\jezyk c++ szkola programowania\rozdzial 9 zad 4\sales.hpp
+

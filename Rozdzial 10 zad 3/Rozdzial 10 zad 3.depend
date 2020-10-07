@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1596464833 source:c:\codeblocks\jezyk c++ szkola programowania\rozdzial 10 zad 3\main.cpp
+	<iostream>
+	"golf.h"
+
+1596464951 c:\codeblocks\jezyk c++ szkola programowania\rozdzial 10 zad 3\golf.h
+	<iostream>
+
+1596464833 source:c:\codeblocks\jezyk c++ szkola programowania\rozdzial 10 zad 3\golf.cpp
+	<iostream>
+	<string.h>
+	"golf.h"
+

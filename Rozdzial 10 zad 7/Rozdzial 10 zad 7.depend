@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1596473395 source:c:\codeblocks\jezyk c++ szkola programowania\rozdzial 10 zad 7\main.cpp
+	<iostream>
+	"gwiazda.h"
+
+1596473395 c:\codeblocks\jezyk c++ szkola programowania\rozdzial 10 zad 7\gwiazda.h
+
+1596473448 source:c:\codeblocks\jezyk c++ szkola programowania\rozdzial 10 zad 7\gwiazda.cpp
+	<iostream>
+	<string.h>
+	"gwiazda.h"
+

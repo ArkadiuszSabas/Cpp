@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1596470871 source:c:\codeblocks\jezyk c++ szkola programowania\rozdzial 10 zad 6\main.cpp
+	<iostream>
+	"Move.h"
+
+1596471380 c:\codeblocks\jezyk c++ szkola programowania\rozdzial 10 zad 6\move.h
+
+1596471385 source:c:\codeblocks\jezyk c++ szkola programowania\rozdzial 10 zad 6\move.cpp
+	<iostream>
+	"Move.h"
+

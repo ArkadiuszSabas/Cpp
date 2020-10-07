@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1597338916 source:c:\codeblocks\jezyk c++ szkola programowania\rozdzial 11 zad 4\main.cpp
+	<iostream>
+	"mytime3.h"
+
+1597339289 c:\codeblocks\jezyk c++ szkola programowania\rozdzial 11 zad 4\mytime3.h
+	<iostream>
+

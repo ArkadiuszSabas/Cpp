@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1598134707 source:c:\codeblocks\jezyk c++ szkola programowania\test\main.cpp
+	<iostream>
+	<fstream>
+	<limits>
+	<array>
+	<cstring>
+	<vector>
+	<algorithm>
+

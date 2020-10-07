@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1596454138 source:c:\codeblocks\jezyk c++ szkola programowania\rozdzial 10 zad 1\kontobankowe.cpp
+	<iostream>
+	"kontobankowe.h"
+
+1596454250 c:\codeblocks\jezyk c++ szkola programowania\rozdzial 10 zad 1\kontobankowe.h
+	<string>
+
+1596454138 source:c:\codeblocks\jezyk c++ szkola programowania\rozdzial 10 zad 1\main.cpp
+	<iostream>
+	"kontobankowe.h"
+
